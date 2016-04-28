@@ -45,7 +45,7 @@
 }
 
 .bg-img-1 {
-    background-image: url(../img/backgrounds/bg-rob.jpg);
+    background-image: url(../img/backgrounds/bg-rob1.jpg);
     background-position: center bottom;
 }
 .bg-img-2 {
@@ -89,6 +89,9 @@
 }
 .bg-img-15 {
     background-image: url(../img/backgrounds/bg-15.jpg);
+}
+.bg-img-bt {
+    background-image: url(../img/backgrounds/bt1.jpg);
 }
 .bg-blue {
     background-image: url(../img/backgrounds/bg-blue.jpg);
