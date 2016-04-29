@@ -5535,3 +5535,6 @@ section {
 
 .clear { clear: both;}
 .img-border { border:1px solid #cacaca; }
+.jobTitle { font-weight: 800;}
+.workPlace { font-weight: 800; color:#563d7c;}
+.sectionTitle { font-weight: 800;}
