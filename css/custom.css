@@ -48,6 +48,12 @@
     background-image: url(../img/backgrounds/bg-rob1.jpg);
     background-position: center bottom;
 }
+@media (max-width: 480px) {
+  .bg-img-1 {
+      background-image: url(../img/backgrounds/bg-rob1-rwd.jpg);
+      background-position: center bottom;
+  }
+}
 .bg-img-2 {
     background-image: url(../img/backgrounds/bg-2.jpg);
 }

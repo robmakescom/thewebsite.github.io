@@ -1663,6 +1663,8 @@ p {
         line-height: 40px;
         font-weight: 100;
     }
+    .footerAlign { text-align: center !important;}
+    .footerAlign ul { margin-left: auto !important; margin-right: auto !important; width: 100%;}
 }
 .sm-line-height {line-height: 20px}
 .line-height26 {line-height: 26px}
