@@ -1,5 +1,5 @@
 a:focus,
-a:hover, 
+a:hover,
 .color,
 .connected-icon a i,
 .testimonial-name,
@@ -13,7 +13,7 @@ a:hover,
 .box a,
 .box.box-style6 a,
 .box.box-style8b a,
-.about-me-social li a:hover,    
+.about-me-social li a:hover,
 .icon-box-hover i,
 #footer-2 li a:hover,
 #footer-2>a:hover,
@@ -23,9 +23,9 @@ a:hover,
 .home-filters-dark .cbp-filter-item:hover,
 .home-filters-dark .cbp-filter-item-active.cbp-filter-item
 {
-    color: #ec004e
+    color: #FF7676
 }
- 
+
 
 .bg-color,
 #price-list .button:hover,
@@ -33,36 +33,36 @@ a:hover,
 .progress-bar,
 #back-to-top,
 .portfolioFilter a.current,
-.portfolioFilter a:hover,  
+.portfolioFilter a:hover,
 .label-primary,
 .panel-title,
 #buttonTabs li.active a,
 .box-style5,
 .box-style7,
 .box-style10,
-.progress-bars-4 .progress-bar-tooltip, 
+.progress-bars-4 .progress-bar-tooltip,
 .timeline::before,
 h4.fitness-label,
 .bg-overlay:after,
 .label-items-in-cart
 {
-    background-color: #ec004e
+    background-color: #FF7676
 }
-.btn-primary,  
-.btn-primary.active, .btn-primary:active, 
+.btn-primary,
+.btn-primary.active, .btn-primary:active,
 .open>.dropdown-toggle.btn-primary,
 .btn-primary.disabled, .btn-primary.disabled.active, .btn-primary.disabled.focus, .btn-primary.disabled:active, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled], .btn-primary[disabled].active, .btn-primary[disabled].focus, .btn-primary[disabled]:active, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary, .btn-ghost-color:hover,
 .btn-primary.btn-appear:hover
 {
-    background-color: #ec004e
+    background-color: #FF7676
 }
-.btn-primary, 
+.btn-primary,
 .btn-ghost-color,
 .btn-ghost-color:hover,
 .section-heading hr, hr.separator,
 .btn-primary.btn-appear:hover
-{ 
-    border-color: #ec004e
+{
+    border-color: #FF7676
 }
 .accordian-style2 .panel-title,
 .food-tabs li.active a,
@@ -72,30 +72,30 @@ h4.fitness-label,
 .timeline-bullet,
 .contact input:focus, textarea:focus, select:focus,
 .btn-primary.active, .btn-primary:active
-{ 
-    border-color: #ec004e
+{
+    border-color: #FF7676
 }
 #video .play-btn:after,
 .music-bottom .play-btn:after,
 .play-bottom .play-btn:after
-{ 
-    border-left-color: #ec004e
-} 
+{
+    border-left-color: #FF7676
+}
 .box-style4 {
-    border-top: 2px solid #ec004e
+    border-top: 2px solid #FF7676
 }
 #price-list .featured .price-table,
 .progress-bars-4 .progress-bar-tooltip:after
 {
-    border-top-color: #ec004e
+    border-top-color: #FF7676
 }
- 
+
 
 .color,
 .feature-center.white i.color,
 .counter h1,
 .team figure figcaption a:hover,
-.portfolio figure figcaption p, 
+.portfolio figure figcaption p,
 a:hover .subheading,
 .blog-columns .blog-thumb-desc a:hover h4,
 .blog-standard a:hover h4,
@@ -107,30 +107,30 @@ a:hover .subheading,
 .read-more-link2.color span,
 #clock .digit
 {
-    color: #ec004e
+    color: #FF7676
 }
 
 .contact input.submit,
-.blog-pagination>.active>a, 
+.blog-pagination>.active>a,
 .blog-pagination>.active>a:hover
 {
-    background-color: #ec004e
+    background-color: #FF7676
 }
 
 .price-table-featured .price-box
 {
-    border-color: #ec004e
+    border-color: #FF7676
 }
 
 blockquote {
-    border-left-color: #ec004e
+    border-left-color: #FF7676
 }
 
 .cbp-caption-zoom .cbp-caption-activeWrap {
     background-color: rgba(236,0,78,0.9)
 }
 
- 
+
 .progress-svg circle {
-  	stroke: #ec004e
+  	stroke: #FF7676
 }

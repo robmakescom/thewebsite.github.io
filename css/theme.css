@@ -5545,8 +5545,8 @@ section {
 
 .clear { clear: both;}
 .img-border { border:1px solid #cacaca; }
-.jobTitle { font-weight: 800;}
-.workPlace { font-weight: 800; color:#563d7c;}
+.jobTitle { font-weight: 800; color:#FF7676;}
+.workPlace { font-weight: 800; }
 .sectionTitle { font-weight: 800;}
 a.btn { text-decoration: none !important;}
 a.rmhome { text-decoration: none !important; background-color:#191a1c; display:inline-block; font-size: 20px; margin-left:20px; padding: 5px 8px;font-weight: 500; color: #FFFFFF;}
