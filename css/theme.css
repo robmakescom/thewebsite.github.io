@@ -2463,8 +2463,15 @@ ol li {
 }
 ul li {
     color: #888;
-    line-height: 32px;
+    line-height: 22px;
     font-weight: 300;
+    list-style-type: square;
+    padding: 0 0 13px;
+    margin: 0 0 0 30px;
+}
+ul li ul li {
+	margin: 6px 0 0 30px;
+	padding: 0 0 0 5px;
 }
 ul {
     display: block;
