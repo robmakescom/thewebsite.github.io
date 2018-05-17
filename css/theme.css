@@ -3960,6 +3960,7 @@ ul {
     border-bottom: 1px solid #E8E8E8;
     font-weight: 300;
     font-size: 13px;
+    list-style-type: none;
 }
 .project-category-list li i {
     margin-right: 10px;
@@ -3967,6 +3968,7 @@ ul {
 .project-info {
     padding-top: 8px;
 }
+.project-info li, .project-category-list li { list-style-type: none; margin-left: 0;}
 .project-info li strong {
     min-width: 90px;
     display: inline-block;
